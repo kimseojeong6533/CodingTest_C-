@@ -1,0 +1,5 @@
+﻿  main2.cpp
+c:\users\kim seojeong\desktop\baek\baekjoon\baek_15686_deliveringchicken\recursion_exercise\recursionexercise\recursionexercise\main2.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\baek\baekjoon\baek_15686_deliveringchicken\recursion_exercise\recursionexercise\recursionexercise\main2.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\baek\baekjoon\baek_15686_deliveringchicken\recursion_exercise\recursionexercise\recursionexercise\main2.cpp(39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  RecursionExercise.vcxproj -> C:\Users\Kim SeoJeong\Desktop\Baek\baekjoon\baek_15686_DeliveringChicken\Recursion_exercise\RecursionExercise\Debug\RecursionExercise.exe

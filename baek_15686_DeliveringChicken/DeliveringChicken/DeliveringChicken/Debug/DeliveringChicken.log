@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\kim seojeong\desktop\baek\baekjoon\baek_15686_deliveringchicken\deliveringchicken\deliveringchicken\main.cpp(26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\baek\baekjoon\baek_15686_deliveringchicken\deliveringchicken\deliveringchicken\main.cpp(30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\baek\baekjoon\baek_15686_deliveringchicken\deliveringchicken\deliveringchicken\main.cpp(45): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  DeliveringChicken.vcxproj -> C:\Users\Kim SeoJeong\Desktop\Baek\baekjoon\baek_15686_DeliveringChicken\DeliveringChicken\Debug\DeliveringChicken.exe
