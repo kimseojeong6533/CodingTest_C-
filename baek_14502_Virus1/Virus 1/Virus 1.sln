@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Virus 1", "Virus 1\Virus 1.vcxproj", "{96336204-0ED7-45BA-8971-81C6EA641E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96336204-0ED7-45BA-8971-81C6EA641E9C}.Debug|x64.ActiveCfg = Debug|x64
+		{96336204-0ED7-45BA-8971-81C6EA641E9C}.Debug|x64.Build.0 = Debug|x64
+		{96336204-0ED7-45BA-8971-81C6EA641E9C}.Debug|x86.ActiveCfg = Debug|Win32
+		{96336204-0ED7-45BA-8971-81C6EA641E9C}.Debug|x86.Build.0 = Debug|Win32
+		{96336204-0ED7-45BA-8971-81C6EA641E9C}.Release|x64.ActiveCfg = Release|x64
+		{96336204-0ED7-45BA-8971-81C6EA641E9C}.Release|x64.Build.0 = Release|x64
+		{96336204-0ED7-45BA-8971-81C6EA641E9C}.Release|x86.ActiveCfg = Release|Win32
+		{96336204-0ED7-45BA-8971-81C6EA641E9C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70BDA3D2-C42B-4EFE-AEE0-F3832883E13F}
+	EndGlobalSection
+EndGlobal
