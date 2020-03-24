@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\kim seojeong\desktop\github\baek_16235_treejaetech\treejaetech_sol\treejaetech_sol\treejaetech_sol\main.cpp(31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\github\baek_16235_treejaetech\treejaetech_sol\treejaetech_sol\treejaetech_sol\main.cpp(49): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\github\baek_16235_treejaetech\treejaetech_sol\treejaetech_sol\treejaetech_sol\main.cpp(69): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  TreeJaetech_Sol.vcxproj -> C:\Users\Kim SeoJeong\Desktop\github\baek_16235_TreeJaetech\TreeJAetech_Sol\TreeJaetech_Sol\Debug\TreeJaetech_Sol.exe
