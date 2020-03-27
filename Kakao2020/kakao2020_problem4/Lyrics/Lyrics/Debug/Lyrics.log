@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\kim seojeong\desktop\github\kakao2020\kakao2020_problem4\lyrics\lyrics\main.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\github\kakao2020\kakao2020_problem4\lyrics\lyrics\main.cpp(17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\github\kakao2020\kakao2020_problem4\lyrics\lyrics\main.cpp(24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\github\kakao2020\kakao2020_problem4\lyrics\lyrics\main.cpp(70): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Lyrics.vcxproj -> C:\Users\Kim SeoJeong\Desktop\github\Kakao2020\kakao2020_problem4\Lyrics\Debug\Lyrics.exe

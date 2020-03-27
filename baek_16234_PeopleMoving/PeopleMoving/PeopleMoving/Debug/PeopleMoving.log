@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kim seojeong\desktop\github\baek_16234_peoplemoving\peoplemoving\peoplemoving\main.cpp(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\github\baek_16234_peoplemoving\peoplemoving\peoplemoving\main.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  PeopleMoving.vcxproj -> C:\Users\Kim SeoJeong\Desktop\github\baek_16234_PeopleMoving\PeopleMoving\Debug\PeopleMoving.exe
