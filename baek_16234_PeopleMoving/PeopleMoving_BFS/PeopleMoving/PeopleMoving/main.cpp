@@ -55,7 +55,7 @@ void Moving(int a, int b)
 	return;
 }
 
-void Unity(queue <pair <int,int> > country, int i, int j)
+void Unity(queue <pair <int,int> > &country, int i, int j)
 {
 	while (!country.empty())
 	{
@@ -126,7 +126,6 @@ int main(void)
 			if (cnty[v[i].first][v[i].second].size() >= 1)
 				Moving(v[i].first,v[i].second);
 		}
-
 		
 		//visit,country√ ±‚»≠
 		memset(visit, 0, sizeof(visit));
