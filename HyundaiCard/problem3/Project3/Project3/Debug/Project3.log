@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\kim seojeong\desktop\github\hyundaicard\problem3\project3\project3\main.cpp(12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\github\hyundaicard\problem3\project3\project3\main.cpp(23): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+c:\users\kim seojeong\desktop\github\hyundaicard\problem3\project3\project3\main.cpp(23): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'std::string'입니다.
+  Project3.vcxproj -> C:\Users\Kim SeoJeong\Desktop\github\HyundaiCard\problem3\Project3\Debug\Project3.exe
