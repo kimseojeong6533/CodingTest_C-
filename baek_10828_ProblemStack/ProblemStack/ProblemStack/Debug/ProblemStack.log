@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kim seojeong\desktop\github\baek_10828_problemstack\problemstack\problemstack\main.cpp(51): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\github\baek_10828_problemstack\problemstack\problemstack\main.cpp(57): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ProblemStack.vcxproj -> C:\Users\Kim SeoJeong\Desktop\github\baek_10828_ProblemStack\ProblemStack\Debug\ProblemStack.exe

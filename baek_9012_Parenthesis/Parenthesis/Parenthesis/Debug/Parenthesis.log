@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kim seojeong\desktop\github\baek_9012_parenthesis\parenthesis\parenthesis\main.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kim seojeong\desktop\github\baek_9012_parenthesis\parenthesis\parenthesis\main.cpp(19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Parenthesis.vcxproj -> C:\Users\Kim SeoJeong\Desktop\github\baek_9012_Parenthesis\Parenthesis\Debug\Parenthesis.exe

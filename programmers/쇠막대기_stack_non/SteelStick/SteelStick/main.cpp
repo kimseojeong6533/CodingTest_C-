@@ -10,11 +10,16 @@ int solution(string arrangement) {
 	stack <char> pipe;
 
 	for (int i = 0; i < arrangement.length(); i++) {
-		if (arrangement[i] == '(') pipe.push(arrangement[i]);
-		else {
+		if (arrangement[i] == '(') 
+			pipe.push(arrangement[i]);
+		else 
+		{
 			pipe.pop();
-			if (arrangement[i - 1] == '(') answer += pipe.size();
-			else answer += 1;
+
+			if (arrangement[i - 1] == '(') 
+				answer += pipe.size();
+			else 
+				answer += 1;
 		}
 	}
 	return answer;

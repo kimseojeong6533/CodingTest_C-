@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\kim seojeong\desktop\github\baek_1874_numarray\numarray\numarray\main.cpp(65): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  NumArray.vcxproj -> C:\Users\Kim SeoJeong\Desktop\github\baek_1874_NumArray\NumArray\Debug\NumArray.exe
